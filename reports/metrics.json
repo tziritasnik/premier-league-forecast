@@ -1,0 +1,87 @@
+{
+  "selected_window": 38,
+  "validation_season": "2024/25",
+  "validation_by_window": {
+    "5": {
+      "matches": 380,
+      "log_loss": 1.0331083397726717,
+      "brier": 0.6204062950022847,
+      "accuracy": 0.47368421052631576
+    },
+    "10": {
+      "matches": 380,
+      "log_loss": 1.0062752681790428,
+      "brier": 0.6020639377302002,
+      "accuracy": 0.4868421052631579
+    },
+    "20": {
+      "matches": 380,
+      "log_loss": 0.9876497789765087,
+      "brier": 0.5891702722652725,
+      "accuracy": 0.5184210526315789
+    },
+    "38": {
+      "matches": 380,
+      "log_loss": 0.9829112200594323,
+      "brier": 0.5868330212919256,
+      "accuracy": 0.5289473684210526
+    }
+  },
+  "test_season": "2025/26",
+  "test": {
+    "baseline": {
+      "matches": 380,
+      "log_loss": 1.0846203120205522,
+      "brier": 0.6563004064029371,
+      "accuracy": 0.4263157894736842
+    },
+    "poisson": {
+      "matches": 380,
+      "log_loss": 1.0336269629368857,
+      "brier": 0.6217926759666068,
+      "accuracy": 0.48157894736842105
+    }
+  },
+  "test_outcomes": {
+    "H": 162,
+    "D": 104,
+    "A": 114
+  },
+  "sources": {
+    "1920": {
+      "url": "https://www.football-data.co.uk/mmz4281/1920/E0.csv",
+      "matches": 380,
+      "sha256": "100037618b94f94057400bb02bf6bac4ef74ddaa58cde4b38370839c39caee61"
+    },
+    "2021": {
+      "url": "https://www.football-data.co.uk/mmz4281/2021/E0.csv",
+      "matches": 380,
+      "sha256": "5afe63f69401457b8354eaacee24f9a3e520b3c3af6329564a9783e20d789c62"
+    },
+    "2122": {
+      "url": "https://www.football-data.co.uk/mmz4281/2122/E0.csv",
+      "matches": 380,
+      "sha256": "335afcbabeb2939fa10ab39ba3e8215072d0b577cb8d0705c1e44c56e934e703"
+    },
+    "2223": {
+      "url": "https://www.football-data.co.uk/mmz4281/2223/E0.csv",
+      "matches": 380,
+      "sha256": "8442792d3b614c94ea3cf381bd2736805889cc1713169035368fff19c3d02380"
+    },
+    "2324": {
+      "url": "https://www.football-data.co.uk/mmz4281/2324/E0.csv",
+      "matches": 380,
+      "sha256": "b2e057b0ed959f198b0f63d2391c01239f3608e6de5db68edab3f88e04d07ff3"
+    },
+    "2425": {
+      "url": "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
+      "matches": 380,
+      "sha256": "d0c8ce4a96d886cf60cf101f570f4a3893844226f91c7bd769eb568c49edbfa4"
+    },
+    "2526": {
+      "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv",
+      "matches": 380,
+      "sha256": "3e3a8352f9ada6789c508d6ca184424421fed56a30400904a4a327c583407e62"
+    }
+  }
+}

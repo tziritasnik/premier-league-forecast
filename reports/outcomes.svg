@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 395" role="img" aria-labelledby="title desc">
+<title id="title">Forecast probabilities and observed outcomes</title>
+<desc id="desc">Mean home, draw and away probabilities for both models versus the observed rates in 380 matches.</desc>
+<rect width="760" height="395" rx="16" fill="#F6F8FC"/>
+<g font-family="system-ui, sans-serif" fill="#172942">
+<text x="32" y="40" font-size="23" font-weight="700">Forecast probabilities and observed outcomes</text>
+<text x="32" y="65" font-size="14">Premier League 2025/26 · 380 held-out matches</text>
+<path d="M66 308.0 H731" stroke="#D5DFEB"/>
+<text x="55" y="312.0" text-anchor="end" font-size="12">0%</text>
+<path d="M66 270.5 H731" stroke="#D5DFEB"/>
+<text x="55" y="274.5" text-anchor="end" font-size="12">10%</text>
+<path d="M66 233.0 H731" stroke="#D5DFEB"/>
+<text x="55" y="237.0" text-anchor="end" font-size="12">20%</text>
+<path d="M66 195.5 H731" stroke="#D5DFEB"/>
+<text x="55" y="199.5" text-anchor="end" font-size="12">30%</text>
+<path d="M66 158.0 H731" stroke="#D5DFEB"/>
+<text x="55" y="162.0" text-anchor="end" font-size="12">40%</text>
+<path d="M66 120.5 H731" stroke="#D5DFEB"/>
+<text x="55" y="124.5" text-anchor="end" font-size="12">50%</text>
+<text x="178" y="335" text-anchor="middle" font-size="15" font-weight="600">Home win</text>
+<rect x="112" y="144.42" width="38" height="163.58" rx="3" fill="#8394AA"/>
+<text x="131" y="136.42" text-anchor="middle" font-size="11">43.6%</text>
+<rect x="159" y="148.12" width="38" height="159.88" rx="3" fill="#047D86"/>
+<text x="178" y="140.12" text-anchor="middle" font-size="11">42.6%</text>
+<rect x="206" y="148.13" width="38" height="159.87" rx="3" fill="#253A59"/>
+<text x="225" y="140.13" text-anchor="middle" font-size="11">42.6%</text>
+<text x="398" y="335" text-anchor="middle" font-size="15" font-weight="600">Draw</text>
+<rect x="332" y="220.95" width="38" height="87.05" rx="3" fill="#8394AA"/>
+<text x="351" y="212.95" text-anchor="middle" font-size="11">23.2%</text>
+<rect x="379" y="218.25" width="38" height="89.75" rx="3" fill="#047D86"/>
+<text x="398" y="210.25" text-anchor="middle" font-size="11">23.9%</text>
+<rect x="426" y="205.37" width="38" height="102.63" rx="3" fill="#253A59"/>
+<text x="445" y="197.37" text-anchor="middle" font-size="11">27.4%</text>
+<text x="618" y="335" text-anchor="middle" font-size="15" font-weight="600">Away win</text>
+<rect x="552" y="183.64" width="38" height="124.36" rx="3" fill="#8394AA"/>
+<text x="571" y="175.64" text-anchor="middle" font-size="11">33.2%</text>
+<rect x="599" y="182.62" width="38" height="125.38" rx="3" fill="#047D86"/>
+<text x="618" y="174.62" text-anchor="middle" font-size="11">33.4%</text>
+<rect x="646" y="195.50" width="38" height="112.50" rx="3" fill="#253A59"/>
+<text x="665" y="187.50" text-anchor="middle" font-size="11">30.0%</text>
+<rect x="197" y="360" width="13" height="13" rx="2" fill="#8394AA"/>
+<text x="217" y="371" font-size="13">Baseline</text>
+<rect x="324" y="360" width="13" height="13" rx="2" fill="#047D86"/>
+<text x="344" y="371" font-size="13">Poisson model</text>
+<rect x="451" y="360" width="13" height="13" rx="2" fill="#253A59"/>
+<text x="471" y="371" font-size="13">Observed</text>
+</g></svg>
